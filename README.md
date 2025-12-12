@@ -1,6 +1,6 @@
 📊 DADOS_RFB_
 
-Repositório para extração, tratamento e integração dos Dados Abertos da Receita Federal do Brasil (RFB), com foco na base de CNPJ (Cadastro Nacional da Pessoa Jurídica).
+Repositório para extração, tratamento e integração dos Dados Abertos da Receita Federal do Brasil (RFB), com foco na base de CNPJ (Cadastro Nacional da Pessoa Jurídica). // Trabalho relacionado à Fatec Barueri
 
 Este projeto contém scripts para baixar, processar e inserir grandes volumes de dados CSV da RFB em um banco de dados relacional, permitindo análises detalhadas de empresas, sócios e outras informações públicas liberadas pela Receita. 
 Serviços e Informações do Brasil
