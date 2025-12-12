@@ -64,15 +64,20 @@ Certifique-se de ter o seguinte instalado:
 
 Clone este repositório:
 
+```bash
+
 git clone https://github.com/MauricioSaleMachine/DADOS_RFB_.git
 cd DADOS_RFB_
 
+```
+
 
 Instale dependências:
+```bash
 
 pip install -r requirements.txt
 
-
+```
 Configure seu banco de dados:
 
 Inicie sua instância do MariaDB/MySQL
@@ -91,7 +96,7 @@ GitHub
 
 🗂️ Organização de Arquivos
 
-'''bash 
+```bash 
 ├── .gitignore
 ├── README.md
 ├── LICENSE
@@ -101,7 +106,7 @@ GitHub
 ├── DADOS_RFB.log                           # Log de execução (exemplo)
 └── ETL_coletar_dados_e_gravar_BD.py        # Script principal de ETL 
 
-'''
+```
 
 ❓ Como Contribuir
 
